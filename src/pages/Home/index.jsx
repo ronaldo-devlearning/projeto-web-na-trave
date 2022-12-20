@@ -1,7 +1,3 @@
-/**const Title = ({children, ...props}) => (
-  <h1 {...props}>{children}</h1>
-)**/
-
 export function Home() {
   return (
     <div className="h-screen bg-red-700 p-4 text-white flex flex-col items-center space-y-6">
