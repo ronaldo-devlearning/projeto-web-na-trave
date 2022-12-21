@@ -1,0 +1,15 @@
+{
+  "name": "fsc-copa-api",
+  "version": "1.0.0",
+  "main": "setup.js",
+  "type": "module",
+  "scripts": {},
+  "author": "Ronaldo Rocha",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/cors": "^4.0.0",
+    "@koa/router": "^12.0.0",
+    "koa": "^2.14.1",
+    "koa-bodyparser": "^4.3.0"
+  }
+}
